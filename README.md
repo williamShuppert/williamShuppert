@@ -1,9 +1,15 @@
 ### Hey I'm Will! 👋
 
-I'm a computer science student at the University of Cincinnati.
+:computer: I'm a computer science student at the University of Cincinnati.
 
-Right now I'm taking classes involving C++ and Python!
+I have experience with:
+- Java
+- Python
+- C++
+- HTML/CSS/Javascript
 
+:books: I want to continue to keep learning and growing my skill set!
+  
 <!--
 **williamShuppert/williamShuppert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
