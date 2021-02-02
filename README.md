@@ -2,12 +2,6 @@
 
 :computer: I'm a computer science student at the University of Cincinnati.
 
-I have experience with:
-- Java
-- Python
-- C++
-- HTML/CSS/Javascript
-
 :books: I want to continue to keep learning and growing my skill set!
   
 <!--
