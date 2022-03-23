@@ -1,6 +1,6 @@
 ### Hey I'm Will! 👋
 
-:computer: I'm a computer science student at the University of Cincinnati.
+:computer: I'm a computer science student at Miami University.
 
 :books: I want to continue to keep learning and growing my skill set!
   
