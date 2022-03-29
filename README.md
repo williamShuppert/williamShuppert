@@ -1,12 +1,16 @@
 ### Hey I'm Will! 👋
 
-:computer: I'm a computer science student at Miami University.
+💻 I'm a computer science major at Miami University.
 
-Currently Learning More About:
-- Unity
-- ASP.Net Core Web API
+<br>
 
-:books: I want to continue to keep learning and growing my skill set!
+Heres what I'm working on now:
+- 🎮 Unity
+- 🍪 ASP.Net Core Web API
+
+<br>
+
+:books: I'm excited to keep learning new things and to grow my skill set!
   
 <!--
 **williamShuppert/williamShuppert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
