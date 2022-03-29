@@ -2,6 +2,10 @@
 
 :computer: I'm a computer science student at Miami University.
 
+Currently Learning More About:
+- Unity
+- ASP.Net Core Web API
+
 :books: I want to continue to keep learning and growing my skill set!
   
 <!--
