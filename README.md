@@ -5,8 +5,15 @@
 <br>
 
 Heres what I'm working on now:
+- :computer: Arduio
+- :electric_plug: Web APIs (ASP.Net Core & expressJS)
 - 🎮 Unity
-- 🍪 ASP.Net Core Web API
+- Classes at Miami _*relevant_
+  - machine learning (CSE 432)
+  - Systems I (CSE 278)
+  - Software Eng. (CSE 201)
+  - Differential Equations (MTH 245)
+
 
 <br>
 
