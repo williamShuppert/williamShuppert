@@ -9,7 +9,7 @@ Heres what I'm working on now:
 - :electric_plug: Web APIs (ASP.Net Core & expressJS)
 - 🎮 Unity
 - Classes at Miami _*relevant_
-  - machine learning (CSE 432)
+  - Machine Learning (CSE 432)
   - Systems I (CSE 278)
   - Software Eng. (CSE 201)
   - Differential Equations (MTH 245)
