@@ -1,6 +1,6 @@
 ### Hey I'm Will! 👋
 
-💻 I'm a computer science major at Miami University.
+💻 I'm a Computer Science major at Miami University.
 
 <br>
 
@@ -8,7 +8,7 @@ Heres what I'm working on now:
 - :computer: Arduio
 - :electric_plug: Web APIs (ASP.Net Core & expressJS)
 - 🎮 Unity
-- Classes at Miami _*relevant_
+- Current Classes at Miami _*relevant_
   - Machine Learning (CSE 432)
   - Systems I (CSE 278)
   - Software Eng. (CSE 201)
