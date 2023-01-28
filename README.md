@@ -8,11 +8,10 @@ Heres what I'm working on now:
 - :computer: Arduio
 - :electric_plug: Web APIs (ASP.Net Core & expressJS)
 - 🎮 Unity
-- Current Classes at Miami _*relevant_
-  - Machine Learning (CSE 432)
-  - Systems I (CSE 278)
-  - Software Eng. (CSE 201)
-  - Differential Equations (MTH 245)
+- Current Classes at Miami _*CS classes_
+  - Web Applications (CSE 383)
+  - Systems II (CSE 381)
+
 
 
 <br>
